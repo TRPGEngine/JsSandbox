@@ -1,0 +1,23 @@
+{
+  "name": "trpg-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TRPGEngine/JsSandbox.git"
+  },
+  "keywords": [
+    "trpg",
+    "sandbox"
+  ],
+  "author": "moonrailgun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TRPGEngine/JsSandbox/issues"
+  },
+  "homepage": "https://github.com/TRPGEngine/JsSandbox#readme"
+}
